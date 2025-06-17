@@ -1,5 +1,5 @@
 from urllib.parse import unquote, urlparse, parse_qs, urljoin
-
+#自动解码用64位加密的网址
 def extract_pdf_url(viewer_url):
     
     try:
