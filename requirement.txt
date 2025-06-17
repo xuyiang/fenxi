@@ -1,0 +1,7 @@
+selenium
+pandas
+time
+requests
+re
+unicodedata
+openpyxl
